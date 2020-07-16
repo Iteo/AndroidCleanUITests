@@ -1,5 +1,7 @@
 # AndroidCleanUITests
 
+[![license](https://img.shields.io/hexpm/l/plug)](https://github.com/Iteo/AndroidCleanUITests/blob/master/LICENSE)
+
 This repository shows basic UI tests with usage of ActivityScenario, Kakao and Kaspresso. 
 Thanks to these libraries code for the tests can be clean and readable in contrast to Espresso.
 
