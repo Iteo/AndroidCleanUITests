@@ -47,7 +47,7 @@ fun after_click_on_item_it_disappear() {
 
 ## Custom View
 
-In the code was created RotatingImageView.  
+The code involved RotatingImageView.  
 This class with some work done may be very easily tested.
 
 <img alt="Image with rotation after click" src="/rotating.gif" width="300" />
